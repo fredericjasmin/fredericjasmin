@@ -51,13 +51,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-    ![Snake animation](https://github.com/fredericjasmin/fredericjasmin/blob/output/github-contribution-grid-snake.svg)
-</div>
-
----
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&color=D5CEC1&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Let's+Build!;See+you+soon!+👋" />
 </h3>
